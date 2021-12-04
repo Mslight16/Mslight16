@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mslight16
 - 👀 I’m interested in web design and development
-- 🌱 I’m currently a student and learning es6
+- 🌱 I’m currently a student and learning UI development
  
 
 
